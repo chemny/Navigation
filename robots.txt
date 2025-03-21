@@ -1,3 +1,26 @@
+# meimingai.com robots.txt
 User-agent: *
 Allow: /
+
+# 允许访问重要目录
+Allow: /about
+Allow: /services
+Allow: /solutions
+Allow: /contact
+
+# 禁止访问管理相关目录
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /*.json$
+Disallow: /*.xml$
+Disallow: /*.txt$
+
+# 允许访问站点地图
+Allow: /sitemap.xml
+
+# 爬虫延迟
+Crawl-delay: 1
+
+# 站点地图
 Sitemap: https://meimingai.com/sitemap.xml 
