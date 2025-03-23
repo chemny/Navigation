@@ -2,58 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-    <!-- 主页 -->
+    <!-- Homepage -->
     <url>
         <loc>https://meimingai.com/</loc>
-        <lastmod>2024-03-21</lastmod>
+        <lastmod>2024-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
 
-    <!-- 关于我们 -->
+    <!-- Game Section -->
     <url>
-        <loc>https://meimingai.com/about</loc>
-        <lastmod>2024-03-21</lastmod>
+        <loc>https://meimingai.com/#game</loc>
+        <lastmod>2024-03-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- About Section -->
+    <url>
+        <loc>https://meimingai.com/#about</loc>
+        <lastmod>2024-03-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
-    <!-- 服务内容 -->
+    <!-- Services Section -->
     <url>
-        <loc>https://meimingai.com/services</loc>
-        <lastmod>2024-03-21</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
+        <loc>https://meimingai.com/#services</loc>
+        <lastmod>2024-03-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>
 
-    <!-- 解决方案 -->
+    <!-- Contact Section -->
     <url>
-        <loc>https://meimingai.com/solutions</loc>
-        <lastmod>2024-03-21</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-
-    <!-- 联系我们 -->
-    <url>
-        <loc>https://meimingai.com/contact</loc>
-        <lastmod>2024-03-21</lastmod>
+        <loc>https://meimingai.com/#contact</loc>
+        <lastmod>2024-03-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
 
-    <!-- 隐私政策 -->
+    <!-- Legal Pages -->
     <url>
-        <loc>https://meimingai.com/privacy-policy</loc>
-        <lastmod>2024-03-21</lastmod>
+        <loc>https://meimingai.com/privacy</loc>
+        <lastmod>2024-03-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
 
-    <!-- 服务条款 -->
     <url>
         <loc>https://meimingai.com/terms</loc>
-        <lastmod>2024-03-21</lastmod>
+        <lastmod>2024-03-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>

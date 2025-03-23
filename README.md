@@ -1,8 +1,29 @@
-# Monster Survivors Game Website
+# MeimingAI Gaming Platform
 
-这是一个在线游戏网站，提供 Monster Survivors 游戏的在线体验。网站采用现代化的设计，提供流畅的游戏体验和清晰的用户界面。
+Welcome to the MeimingAI Gaming Platform repository. This is the official codebase for our gaming website hosted at [meimingai.com](https://meimingai.com).
 
-## 项目结构
+## Project Overview
+
+MeimingAI Gaming Platform is a professional game development and operation platform that provides high-quality gaming experiences and development services.
+
+### Features
+
+- Interactive Game Experience
+- Professional Game Development Services
+- Technical Support
+- Custom Game Solutions
+- Gaming Community
+- Event Organization
+
+## Technology Stack
+
+- HTML5
+- CSS3 (Tailwind CSS)
+- JavaScript
+- Google Analytics
+- Responsive Design
+
+## Directory Structure
 
 ```
 navgation/

@@ -2,25 +2,23 @@
 User-agent: *
 Allow: /
 
-# 允许访问重要目录
+# Allow access to important directories
+Allow: /game
 Allow: /about
 Allow: /services
-Allow: /solutions
 Allow: /contact
 
-# 禁止访问管理相关目录
-Disallow: /admin/
+# Block access to system directories
 Disallow: /cgi-bin/
 Disallow: /tmp/
-Disallow: /*.json$
-Disallow: /*.xml$
-Disallow: /*.txt$
+Disallow: /admin/
+Disallow: /.git/
 
-# 允许访问站点地图
+# Allow access to sitemap
 Allow: /sitemap.xml
 
-# 爬虫延迟
+# Crawl-delay
 Crawl-delay: 1
 
-# 站点地图
+# Sitemap declaration
 Sitemap: https://meimingai.com/sitemap.xml 
